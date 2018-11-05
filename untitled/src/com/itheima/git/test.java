@@ -9,4 +9,8 @@ public class test {
         System.out.println("hello");
         System.out.println("hello");
     }
+    public void add(){
+        int i = 0;
+        i+=10;
+    }
 }
